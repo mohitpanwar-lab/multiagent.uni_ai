@@ -1,0 +1,30 @@
+{
+  "department": "Computer Science & Engineering",
+  "degree": "B.Tech",
+  "semester_4_courses": [
+    {
+      "course_code": "CS-401",
+      "course_name": "Data Structures",
+      "credits": 4,
+      "syllabus_link": "https://uni.edu/syllabus/cs401.pdf"
+    },
+    {
+      "course_code": "CS-402",
+      "course_name": "Database Systems",
+      "credits": 4,
+      "syllabus_link": "https://uni.edu/syllabus/cs402.pdf"
+    },
+    {
+      "course_code": "CS-403",
+      "course_name": "Web Development",
+      "credits": 3,
+      "syllabus_link": "https://uni.edu/syllabus/cs403.pdf"
+    },
+    {
+      "course_code": "MA-404",
+      "course_name": "Mathematics-IV",
+      "credits": 4,
+      "syllabus_link": "https://uni.edu/syllabus/ma404.pdf"
+    }
+  ]
+}

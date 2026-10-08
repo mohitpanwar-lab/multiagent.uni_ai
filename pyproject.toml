@@ -1,0 +1,23 @@
+[project]
+name = "genai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "notebook",
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "pypdf",
+    "pymupdf",
+    "sentence-transformers",
+    "faiss-cpu",
+    "chromadb",
+    "langchain-groq",
+    "python-dotenv",
+    "typesense",
+    "langchain-openai",
+    "langgraph",
+    "langchain-google-genai"
+]

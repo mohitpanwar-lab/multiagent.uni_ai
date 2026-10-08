@@ -1,0 +1,1002 @@
+[
+  {
+    "student_id": "STU2026001",
+    "name": "Sai Nair",
+    "roll_no": "26CSE001",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.nair@uni.edu",
+    "phone": "+91-7107420369",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026002",
+    "name": "Reyansh Malhotra",
+    "roll_no": "26CSE002",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "reyansh.malhotra@uni.edu",
+    "phone": "+91-7113971123",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026003",
+    "name": "Krishna Patel",
+    "roll_no": "26CSE003",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "krishna.patel@uni.edu",
+    "phone": "+91-7438989805",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026004",
+    "name": "Ishaan Malhotra",
+    "roll_no": "26CSE004",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishaan.malhotra@uni.edu",
+    "phone": "+91-8553210608",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026005",
+    "name": "Meera Mehta",
+    "roll_no": "26CSE005",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "meera.mehta@uni.edu",
+    "phone": "+91-7899825838",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026006",
+    "name": "Prisha Patel",
+    "roll_no": "26CSE006",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "prisha.patel@uni.edu",
+    "phone": "+91-7240251661",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026007",
+    "name": "Arjun Kapoor",
+    "roll_no": "26CSE007",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "arjun.kapoor@uni.edu",
+    "phone": "+91-8059257080",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026008",
+    "name": "Sai Joshi",
+    "roll_no": "26CSE008",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.joshi@uni.edu",
+    "phone": "+91-9922644564",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026009",
+    "name": "Kabir Nair",
+    "roll_no": "26CSE009",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kabir.nair@uni.edu",
+    "phone": "+91-8260573448",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026010",
+    "name": "Kriti Boshi",
+    "roll_no": "26CSE010",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kriti.boshi@uni.edu",
+    "phone": "+91-7002456273",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026011",
+    "name": "Aditya Sen",
+    "roll_no": "26CSE011",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aditya.sen@uni.edu",
+    "phone": "+91-9361388464",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026012",
+    "name": "Sai Mehta",
+    "roll_no": "26CSE012",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.mehta@uni.edu",
+    "phone": "+91-8881625505",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026013",
+    "name": "Rohan Verma",
+    "roll_no": "26CSE013",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rohan.verma@uni.edu",
+    "phone": "+91-8419179580",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026014",
+    "name": "Prisha Kumar",
+    "roll_no": "26CSE014",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "prisha.kumar@uni.edu",
+    "phone": "+91-8521696479",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026015",
+    "name": "Kriti Das",
+    "roll_no": "26CSE015",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kriti.das@uni.edu",
+    "phone": "+91-7602078388",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026016",
+    "name": "Riya Sen",
+    "roll_no": "26CSE016",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "riya.sen@uni.edu",
+    "phone": "+91-9067418686",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026017",
+    "name": "Aditya Gupta",
+    "roll_no": "26CSE017",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aditya.gupta@uni.edu",
+    "phone": "+91-8274350418",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026018",
+    "name": "Rohan Joshi",
+    "roll_no": "26CSE018",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rohan.joshi@uni.edu",
+    "phone": "+91-7294296873",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026019",
+    "name": "Vihaan Rao",
+    "roll_no": "26CSE019",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.rao@uni.edu",
+    "phone": "+91-9245334677",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026020",
+    "name": "Sneha Rao",
+    "roll_no": "26CSE020",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sneha.rao@uni.edu",
+    "phone": "+91-7429416213",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026021",
+    "name": "Atharv Choudhury",
+    "roll_no": "26CSE021",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "atharv.choudhury@uni.edu",
+    "phone": "+91-9627135980",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026022",
+    "name": "Arjun Choudhury",
+    "roll_no": "26CSE022",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "arjun.choudhury@uni.edu",
+    "phone": "+91-9597724331",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026023",
+    "name": "Riya Reddy",
+    "roll_no": "26CSE023",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "riya.reddy@uni.edu",
+    "phone": "+91-7189351213",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026024",
+    "name": "Ananya Mehta",
+    "roll_no": "26CSE024",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ananya.mehta@uni.edu",
+    "phone": "+91-9501859536",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026025",
+    "name": "Anika Mishra",
+    "roll_no": "26CSE025",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "anika.mishra@uni.edu",
+    "phone": "+91-7697939765",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026026",
+    "name": "Sanya Singh",
+    "roll_no": "26CSE026",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sanya.singh@uni.edu",
+    "phone": "+91-7166320906",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026027",
+    "name": "Sai Boshi",
+    "roll_no": "26CSE027",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.boshi@uni.edu",
+    "phone": "+91-8716605598",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026028",
+    "name": "Riya Mehta",
+    "roll_no": "26CSE028",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "riya.mehta@uni.edu",
+    "phone": "+91-8347233823",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026029",
+    "name": "Anika Pillai",
+    "roll_no": "26CSE029",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "anika.pillai@uni.edu",
+    "phone": "+91-9950028965",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026030",
+    "name": "Riya Patel",
+    "roll_no": "26CSE030",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "riya.patel@uni.edu",
+    "phone": "+91-8728296502",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026031",
+    "name": "Ishaan Sharma",
+    "roll_no": "26CSE031",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishaan.sharma@uni.edu",
+    "phone": "+91-8305132983",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026032",
+    "name": "Diya Iyer",
+    "roll_no": "26CSE032",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "diya.iyer@uni.edu",
+    "phone": "+91-8218853328",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026033",
+    "name": "Dev Kumar",
+    "roll_no": "26CSE033",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.kumar@uni.edu",
+    "phone": "+91-9704821724",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026034",
+    "name": "Dev Verma",
+    "roll_no": "26CSE034",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.verma@uni.edu",
+    "phone": "+91-9394039673",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026035",
+    "name": "Dev Joshi",
+    "roll_no": "26CSE035",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.joshi@uni.edu",
+    "phone": "+91-9038711176",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026036",
+    "name": "Arjun Patel",
+    "roll_no": "26CSE036",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "arjun.patel@uni.edu",
+    "phone": "+91-8373142116",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026037",
+    "name": "Vivaan Rao",
+    "roll_no": "26CSE037",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vivaan.rao@uni.edu",
+    "phone": "+91-9987248494",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026038",
+    "name": "Aadhya Pillai",
+    "roll_no": "26CSE038",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aadhya.pillai@uni.edu",
+    "phone": "+91-9590950133",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026039",
+    "name": "Anika Singh",
+    "roll_no": "26CSE039",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "anika.singh@uni.edu",
+    "phone": "+91-9542160120",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026040",
+    "name": "Arjun Kumar",
+    "roll_no": "26CSE040",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "arjun.kumar@uni.edu",
+    "phone": "+91-8083497965",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026041",
+    "name": "Ishita Kapoor",
+    "roll_no": "26CSE041",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishita.kapoor@uni.edu",
+    "phone": "+91-9033929266",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026042",
+    "name": "Anika Choudhury",
+    "roll_no": "26CSE042",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "anika.choudhury@uni.edu",
+    "phone": "+91-9473028098",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026043",
+    "name": "Rohan Boshi",
+    "roll_no": "26CSE043",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rohan.boshi@uni.edu",
+    "phone": "+91-9781177100",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026044",
+    "name": "Sneha Pillai",
+    "roll_no": "26CSE044",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sneha.pillai@uni.edu",
+    "phone": "+91-9076605983",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026045",
+    "name": "Kabir Sharma",
+    "roll_no": "26CSE045",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kabir.sharma@uni.edu",
+    "phone": "+91-9123030247",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026046",
+    "name": "Neha Pillai",
+    "roll_no": "26CSE046",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "neha.pillai@uni.edu",
+    "phone": "+91-8032183433",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026047",
+    "name": "Vihaan Mehta",
+    "roll_no": "26CSE047",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.mehta@uni.edu",
+    "phone": "+91-9032638323",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026048",
+    "name": "Rahul Patel",
+    "roll_no": "26CSE048",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rahul.patel@uni.edu",
+    "phone": "+91-7513483708",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026049",
+    "name": "Kavya Sharma",
+    "roll_no": "26CSE049",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kavya.sharma@uni.edu",
+    "phone": "+91-9294092753",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026050",
+    "name": "Kavya Sen",
+    "roll_no": "26CSE050",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kavya.sen@uni.edu",
+    "phone": "+91-9056061866",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026051",
+    "name": "Sai Verma",
+    "roll_no": "26CSE051",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.verma@uni.edu",
+    "phone": "+91-7651662547",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026052",
+    "name": "Kavya Rao",
+    "roll_no": "26CSE052",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kavya.rao@uni.edu",
+    "phone": "+91-9667292043",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026053",
+    "name": "Diya Sharma",
+    "roll_no": "26CSE053",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "diya.sharma@uni.edu",
+    "phone": "+91-8754569613",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026054",
+    "name": "Ishita Reddy",
+    "roll_no": "26CSE054",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishita.reddy@uni.edu",
+    "phone": "+91-9684603688",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026055",
+    "name": "Dev Nair",
+    "roll_no": "26CSE055",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.nair@uni.edu",
+    "phone": "+91-9013042435",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026056",
+    "name": "Arjun Sharma",
+    "roll_no": "26CSE056",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "arjun.sharma@uni.edu",
+    "phone": "+91-7392245997",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026057",
+    "name": "Sai Sen",
+    "roll_no": "26CSE057",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.sen@uni.edu",
+    "phone": "+91-7391883149",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026058",
+    "name": "Dev Iyer",
+    "roll_no": "26CSE058",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.iyer@uni.edu",
+    "phone": "+91-8350840898",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026059",
+    "name": "Sneha Sen",
+    "roll_no": "26CSE059",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sneha.sen@uni.edu",
+    "phone": "+91-9686110098",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026060",
+    "name": "Kavya Pillai",
+    "roll_no": "26CSE060",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kavya.pillai@uni.edu",
+    "phone": "+91-7058731376",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026061",
+    "name": "Dev Pillai",
+    "roll_no": "26CSE061",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.pillai@uni.edu",
+    "phone": "+91-7621232513",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026062",
+    "name": "Ishaan Rao",
+    "roll_no": "26CSE062",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishaan.rao@uni.edu",
+    "phone": "+91-9490751945",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026063",
+    "name": "Ishita Kumar",
+    "roll_no": "26CSE063",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishita.kumar@uni.edu",
+    "phone": "+91-7187463722",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026064",
+    "name": "Vihaan Patel",
+    "roll_no": "26CSE064",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.patel@uni.edu",
+    "phone": "+91-7431062656",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026065",
+    "name": "Zara Patel",
+    "roll_no": "26CSE065",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "zara.patel@uni.edu",
+    "phone": "+91-9896343368",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026066",
+    "name": "Diya Choudhury",
+    "roll_no": "26CSE066",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "diya.choudhury@uni.edu",
+    "phone": "+91-7124327519",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026067",
+    "name": "Sneha Singh",
+    "roll_no": "26CSE067",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sneha.singh@uni.edu",
+    "phone": "+91-9661635754",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026068",
+    "name": "Rohan Das",
+    "roll_no": "26CSE068",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rohan.das@uni.edu",
+    "phone": "+91-8484193033",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026069",
+    "name": "Vihaan Choudhury",
+    "roll_no": "26CSE069",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.choudhury@uni.edu",
+    "phone": "+91-8268006448",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026070",
+    "name": "Tanvi Mehta",
+    "roll_no": "26CSE070",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "tanvi.mehta@uni.edu",
+    "phone": "+91-7940617318",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026071",
+    "name": "Aadhya Kapoor",
+    "roll_no": "26CSE071",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aadhya.kapoor@uni.edu",
+    "phone": "+91-7387119894",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026072",
+    "name": "Tanvi Nair",
+    "roll_no": "26CSE072",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "tanvi.nair@uni.edu",
+    "phone": "+91-9011467975",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026073",
+    "name": "Sanya Das",
+    "roll_no": "26CSE073",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sanya.das@uni.edu",
+    "phone": "+91-8583063357",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026074",
+    "name": "Rohan Das",
+    "roll_no": "26CSE074",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rohan.das@uni.edu",
+    "phone": "+91-8297896903",
+    "mentor": "Prof. Sunita Rao"
+  },
+  {
+    "student_id": "STU2026075",
+    "name": "Vihaan Kapoor",
+    "roll_no": "26CSE075",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.kapoor@uni.edu",
+    "phone": "+91-8781915481",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026076",
+    "name": "Prisha Mehta",
+    "roll_no": "26CSE076",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "prisha.mehta@uni.edu",
+    "phone": "+91-9338463041",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026077",
+    "name": "Rohan Pillai",
+    "roll_no": "26CSE077",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "rohan.pillai@uni.edu",
+    "phone": "+91-7889734128",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026078",
+    "name": "Aditya Sharma",
+    "roll_no": "26CSE078",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aditya.sharma@uni.edu",
+    "phone": "+91-8538638860",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026079",
+    "name": "Vihaan Nair",
+    "roll_no": "26CSE079",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.nair@uni.edu",
+    "phone": "+91-8941348507",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026080",
+    "name": "Atharv Das",
+    "roll_no": "26CSE080",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "atharv.das@uni.edu",
+    "phone": "+91-7315640205",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026081",
+    "name": "Tanvi Nair",
+    "roll_no": "26CSE081",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "tanvi.nair@uni.edu",
+    "phone": "+91-9811970742",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026082",
+    "name": "Aditya Sen",
+    "roll_no": "26CSE082",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aditya.sen@uni.edu",
+    "phone": "+91-7288335378",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026083",
+    "name": "Kavya Malhotra",
+    "roll_no": "26CSE083",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kavya.malhotra@uni.edu",
+    "phone": "+91-8341957809",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026084",
+    "name": "Tanvi Kumar",
+    "roll_no": "26CSE084",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "tanvi.kumar@uni.edu",
+    "phone": "+91-9409329326",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026085",
+    "name": "Vihaan Singh",
+    "roll_no": "26CSE085",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.singh@uni.edu",
+    "phone": "+91-7298867122",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026086",
+    "name": "Shaurya Verma",
+    "roll_no": "26CSE086",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "shaurya.verma@uni.edu",
+    "phone": "+91-7668210614",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026087",
+    "name": "Sanya Mehta",
+    "roll_no": "26CSE087",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sanya.mehta@uni.edu",
+    "phone": "+91-8846465000",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026088",
+    "name": "Ananya Sharma",
+    "roll_no": "26CSE088",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ananya.sharma@uni.edu",
+    "phone": "+91-7877990647",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026089",
+    "name": "Atharv Mishra",
+    "roll_no": "26CSE089",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "atharv.mishra@uni.edu",
+    "phone": "+91-9148610411",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026090",
+    "name": "Sai Kumar",
+    "roll_no": "26CSE090",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sai.kumar@uni.edu",
+    "phone": "+91-8243458354",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026091",
+    "name": "Vihaan Singh",
+    "roll_no": "26CSE091",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "vihaan.singh@uni.edu",
+    "phone": "+91-9250402001",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026092",
+    "name": "Sanya Kapoor",
+    "roll_no": "26CSE092",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "sanya.kapoor@uni.edu",
+    "phone": "+91-8099375147",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026093",
+    "name": "Anika Rao",
+    "roll_no": "26CSE093",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "anika.rao@uni.edu",
+    "phone": "+91-9761628889",
+    "mentor": "Dr. Rajesh Gupta"
+  },
+  {
+    "student_id": "STU2026094",
+    "name": "Ananya Mehta",
+    "roll_no": "26CSE094",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ananya.mehta@uni.edu",
+    "phone": "+91-9178995337",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026095",
+    "name": "Dev Rao",
+    "roll_no": "26CSE095",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.rao@uni.edu",
+    "phone": "+91-9799620568",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026096",
+    "name": "Dev Boshi",
+    "roll_no": "26CSE096",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "dev.boshi@uni.edu",
+    "phone": "+91-9245185702",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026097",
+    "name": "Kavya Reddy",
+    "roll_no": "26CSE097",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "kavya.reddy@uni.edu",
+    "phone": "+91-9819921250",
+    "mentor": "Prof. Priya Nair"
+  },
+  {
+    "student_id": "STU2026098",
+    "name": "Ishaan Kapoor",
+    "roll_no": "26CSE098",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "ishaan.kapoor@uni.edu",
+    "phone": "+91-9878128023",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026099",
+    "name": "Aditya Iyer",
+    "roll_no": "26CSE099",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aditya.iyer@uni.edu",
+    "phone": "+91-8270417388",
+    "mentor": "Dr. Amit Verma"
+  },
+  {
+    "student_id": "STU2026100",
+    "name": "Aadhya Das",
+    "roll_no": "26CSE100",
+    "branch": "Computer Science",
+    "semester": 4,
+    "email": "aadhya.das@uni.edu",
+    "phone": "+91-7187657564",
+    "mentor": "Prof. Sunita Rao"
+  }
+]

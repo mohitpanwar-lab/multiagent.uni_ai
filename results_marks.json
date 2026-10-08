@@ -1,0 +1,1202 @@
+[
+  {
+    "student_id": "STU2026001",
+    "roll_no": "26CSE001",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.33,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "16/30",
+      "Web Development": "15/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026002",
+    "roll_no": "26CSE002",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.24,
+    "internal_assessment_marks": {
+      "Data Structures": "15/30",
+      "Database Systems": "20/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026003",
+    "roll_no": "26CSE003",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.07,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "18/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026004",
+    "roll_no": "26CSE004",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.74,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "18/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026005",
+    "roll_no": "26CSE005",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.41,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "20/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026006",
+    "roll_no": "26CSE006",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.8,
+    "internal_assessment_marks": {
+      "Data Structures": "25/30",
+      "Database Systems": "21/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026007",
+    "roll_no": "26CSE007",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.83,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "30/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026008",
+    "roll_no": "26CSE008",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.01,
+    "internal_assessment_marks": {
+      "Data Structures": "15/30",
+      "Database Systems": "18/30",
+      "Web Development": "23/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026009",
+    "roll_no": "26CSE009",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.93,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "24/30",
+      "Web Development": "21/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026010",
+    "roll_no": "26CSE010",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.22,
+    "internal_assessment_marks": {
+      "Data Structures": "17/30",
+      "Database Systems": "17/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026011",
+    "roll_no": "26CSE011",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.87,
+    "internal_assessment_marks": {
+      "Data Structures": "21/30",
+      "Database Systems": "24/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026012",
+    "roll_no": "26CSE012",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.24,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "22/30",
+      "Web Development": "15/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026013",
+    "roll_no": "26CSE013",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.05,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "22/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026014",
+    "roll_no": "26CSE014",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.37,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "25/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026015",
+    "roll_no": "26CSE015",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.07,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "16/30",
+      "Web Development": "15/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026016",
+    "roll_no": "26CSE016",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.74,
+    "internal_assessment_marks": {
+      "Data Structures": "23/30",
+      "Database Systems": "29/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026017",
+    "roll_no": "26CSE017",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.22,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "20/30",
+      "Web Development": "16/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026018",
+    "roll_no": "26CSE018",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.94,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "17/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026019",
+    "roll_no": "26CSE019",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.01,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "24/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026020",
+    "roll_no": "26CSE020",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.35,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "26/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026021",
+    "roll_no": "26CSE021",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.57,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "23/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026022",
+    "roll_no": "26CSE022",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.92,
+    "internal_assessment_marks": {
+      "Data Structures": "23/30",
+      "Database Systems": "16/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026023",
+    "roll_no": "26CSE023",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.82,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "15/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026024",
+    "roll_no": "26CSE024",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.42,
+    "internal_assessment_marks": {
+      "Data Structures": "21/30",
+      "Database Systems": "22/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026025",
+    "roll_no": "26CSE025",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.05,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "23/30",
+      "Web Development": "20/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026026",
+    "roll_no": "26CSE026",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.85,
+    "internal_assessment_marks": {
+      "Data Structures": "21/30",
+      "Database Systems": "27/30",
+      "Web Development": "25/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026027",
+    "roll_no": "26CSE027",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.66,
+    "internal_assessment_marks": {
+      "Data Structures": "23/30",
+      "Database Systems": "16/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026028",
+    "roll_no": "26CSE028",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.72,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "28/30",
+      "Web Development": "15/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026029",
+    "roll_no": "26CSE029",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.19,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "24/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026030",
+    "roll_no": "26CSE030",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.57,
+    "internal_assessment_marks": {
+      "Data Structures": "20/30",
+      "Database Systems": "24/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026031",
+    "roll_no": "26CSE031",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.77,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "21/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026032",
+    "roll_no": "26CSE032",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.06,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "15/30",
+      "Web Development": "16/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026033",
+    "roll_no": "26CSE033",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.56,
+    "internal_assessment_marks": {
+      "Data Structures": "15/30",
+      "Database Systems": "18/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026034",
+    "roll_no": "26CSE034",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.54,
+    "internal_assessment_marks": {
+      "Data Structures": "25/30",
+      "Database Systems": "29/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026035",
+    "roll_no": "26CSE035",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.84,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "23/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026036",
+    "roll_no": "26CSE036",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.24,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "25/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026037",
+    "roll_no": "26CSE037",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.58,
+    "internal_assessment_marks": {
+      "Data Structures": "24/30",
+      "Database Systems": "27/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026038",
+    "roll_no": "26CSE038",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.48,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "20/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026039",
+    "roll_no": "26CSE039",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.19,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "25/30",
+      "Web Development": "21/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026040",
+    "roll_no": "26CSE040",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.47,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "15/30",
+      "Web Development": "22/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026041",
+    "roll_no": "26CSE041",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.64,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "20/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026042",
+    "roll_no": "26CSE042",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.92,
+    "internal_assessment_marks": {
+      "Data Structures": "24/30",
+      "Database Systems": "18/30",
+      "Web Development": "16/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026043",
+    "roll_no": "26CSE043",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.65,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "19/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026044",
+    "roll_no": "26CSE044",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.16,
+    "internal_assessment_marks": {
+      "Data Structures": "17/30",
+      "Database Systems": "23/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026045",
+    "roll_no": "26CSE045",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.06,
+    "internal_assessment_marks": {
+      "Data Structures": "23/30",
+      "Database Systems": "15/30",
+      "Web Development": "21/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026046",
+    "roll_no": "26CSE046",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.12,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "22/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026047",
+    "roll_no": "26CSE047",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.03,
+    "internal_assessment_marks": {
+      "Data Structures": "23/30",
+      "Database Systems": "22/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026048",
+    "roll_no": "26CSE048",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.27,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "21/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026049",
+    "roll_no": "26CSE049",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.42,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "18/30",
+      "Web Development": "15/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026050",
+    "roll_no": "26CSE050",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.12,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "30/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026051",
+    "roll_no": "26CSE051",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.12,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "22/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026052",
+    "roll_no": "26CSE052",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.01,
+    "internal_assessment_marks": {
+      "Data Structures": "17/30",
+      "Database Systems": "20/30",
+      "Web Development": "22/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026053",
+    "roll_no": "26CSE053",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.09,
+    "internal_assessment_marks": {
+      "Data Structures": "24/30",
+      "Database Systems": "29/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026054",
+    "roll_no": "26CSE054",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.45,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "17/30",
+      "Web Development": "16/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026055",
+    "roll_no": "26CSE055",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.66,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "28/30",
+      "Web Development": "25/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026056",
+    "roll_no": "26CSE056",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.19,
+    "internal_assessment_marks": {
+      "Data Structures": "20/30",
+      "Database Systems": "30/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026057",
+    "roll_no": "26CSE057",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.26,
+    "internal_assessment_marks": {
+      "Data Structures": "25/30",
+      "Database Systems": "28/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026058",
+    "roll_no": "26CSE058",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.3,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "28/30",
+      "Web Development": "16/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026059",
+    "roll_no": "26CSE059",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.53,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "30/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026060",
+    "roll_no": "26CSE060",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.16,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "24/30",
+      "Web Development": "23/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026061",
+    "roll_no": "26CSE061",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.05,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "25/30",
+      "Web Development": "23/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026062",
+    "roll_no": "26CSE062",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.26,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "29/30",
+      "Web Development": "25/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026063",
+    "roll_no": "26CSE063",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.73,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "16/30",
+      "Web Development": "19/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026064",
+    "roll_no": "26CSE064",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.31,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "17/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026065",
+    "roll_no": "26CSE065",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.26,
+    "internal_assessment_marks": {
+      "Data Structures": "24/30",
+      "Database Systems": "22/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026066",
+    "roll_no": "26CSE066",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.64,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "28/30",
+      "Web Development": "20/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026067",
+    "roll_no": "26CSE067",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.42,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "23/30",
+      "Web Development": "15/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026068",
+    "roll_no": "26CSE068",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.76,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "30/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026069",
+    "roll_no": "26CSE069",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.46,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "24/30",
+      "Web Development": "22/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026070",
+    "roll_no": "26CSE070",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.39,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "24/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026071",
+    "roll_no": "26CSE071",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.99,
+    "internal_assessment_marks": {
+      "Data Structures": "26/30",
+      "Database Systems": "23/30",
+      "Web Development": "20/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026072",
+    "roll_no": "26CSE072",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.68,
+    "internal_assessment_marks": {
+      "Data Structures": "26/30",
+      "Database Systems": "17/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026073",
+    "roll_no": "26CSE073",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.89,
+    "internal_assessment_marks": {
+      "Data Structures": "15/30",
+      "Database Systems": "25/30",
+      "Web Development": "22/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026074",
+    "roll_no": "26CSE074",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.44,
+    "internal_assessment_marks": {
+      "Data Structures": "22/30",
+      "Database Systems": "19/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026075",
+    "roll_no": "26CSE075",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.62,
+    "internal_assessment_marks": {
+      "Data Structures": "21/30",
+      "Database Systems": "29/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026076",
+    "roll_no": "26CSE076",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.35,
+    "internal_assessment_marks": {
+      "Data Structures": "21/30",
+      "Database Systems": "15/30",
+      "Web Development": "16/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026077",
+    "roll_no": "26CSE077",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.01,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "19/30",
+      "Web Development": "23/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026078",
+    "roll_no": "26CSE078",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.48,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "18/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026079",
+    "roll_no": "26CSE079",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.74,
+    "internal_assessment_marks": {
+      "Data Structures": "15/30",
+      "Database Systems": "16/30",
+      "Web Development": "30/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026080",
+    "roll_no": "26CSE080",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.37,
+    "internal_assessment_marks": {
+      "Data Structures": "25/30",
+      "Database Systems": "27/30",
+      "Web Development": "24/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026081",
+    "roll_no": "26CSE081",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.52,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "25/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026082",
+    "roll_no": "26CSE082",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.08,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "25/30",
+      "Web Development": "18/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026083",
+    "roll_no": "26CSE083",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.83,
+    "internal_assessment_marks": {
+      "Data Structures": "18/30",
+      "Database Systems": "26/30",
+      "Web Development": "26/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026084",
+    "roll_no": "26CSE084",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.04,
+    "internal_assessment_marks": {
+      "Data Structures": "24/30",
+      "Database Systems": "25/30",
+      "Web Development": "26/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026085",
+    "roll_no": "26CSE085",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.43,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "25/30",
+      "Web Development": "20/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026086",
+    "roll_no": "26CSE086",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.68,
+    "internal_assessment_marks": {
+      "Data Structures": "28/30",
+      "Database Systems": "30/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026087",
+    "roll_no": "26CSE087",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.54,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "22/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026088",
+    "roll_no": "26CSE088",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.46,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "28/30",
+      "Web Development": "20/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026089",
+    "roll_no": "26CSE089",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.5,
+    "internal_assessment_marks": {
+      "Data Structures": "25/30",
+      "Database Systems": "28/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026090",
+    "roll_no": "26CSE090",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.16,
+    "internal_assessment_marks": {
+      "Data Structures": "26/30",
+      "Database Systems": "17/30",
+      "Web Development": "28/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026091",
+    "roll_no": "26CSE091",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.96,
+    "internal_assessment_marks": {
+      "Data Structures": "17/30",
+      "Database Systems": "18/30",
+      "Web Development": "21/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026092",
+    "roll_no": "26CSE092",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.61,
+    "internal_assessment_marks": {
+      "Data Structures": "30/30",
+      "Database Systems": "29/30",
+      "Web Development": "29/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026093",
+    "roll_no": "26CSE093",
+    "current_semester": 4,
+    "previous_semester_gpa": 6.26,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "24/30",
+      "Web Development": "23/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026094",
+    "roll_no": "26CSE094",
+    "current_semester": 4,
+    "previous_semester_gpa": 9.16,
+    "internal_assessment_marks": {
+      "Data Structures": "17/30",
+      "Database Systems": "17/30",
+      "Web Development": "27/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026095",
+    "roll_no": "26CSE095",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.71,
+    "internal_assessment_marks": {
+      "Data Structures": "25/30",
+      "Database Systems": "17/30",
+      "Web Development": "20/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026096",
+    "roll_no": "26CSE096",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.58,
+    "internal_assessment_marks": {
+      "Data Structures": "16/30",
+      "Database Systems": "25/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026097",
+    "roll_no": "26CSE097",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.18,
+    "internal_assessment_marks": {
+      "Data Structures": "27/30",
+      "Database Systems": "19/30",
+      "Web Development": "17/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026098",
+    "roll_no": "26CSE098",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.38,
+    "internal_assessment_marks": {
+      "Data Structures": "20/30",
+      "Database Systems": "21/30",
+      "Web Development": "25/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026099",
+    "roll_no": "26CSE099",
+    "current_semester": 4,
+    "previous_semester_gpa": 7.28,
+    "internal_assessment_marks": {
+      "Data Structures": "19/30",
+      "Database Systems": "27/30",
+      "Web Development": "19/30"
+    },
+    "result_status": "Pass"
+  },
+  {
+    "student_id": "STU2026100",
+    "roll_no": "26CSE100",
+    "current_semester": 4,
+    "previous_semester_gpa": 8.86,
+    "internal_assessment_marks": {
+      "Data Structures": "29/30",
+      "Database Systems": "22/30",
+      "Web Development": "22/30"
+    },
+    "result_status": "Pass"
+  }
+]

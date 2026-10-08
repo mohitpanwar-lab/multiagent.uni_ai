@@ -1,0 +1,1202 @@
+[
+  {
+    "student_id": "STU2026001",
+    "roll_no": "26CSE001",
+    "total_attendance_percentage": 69.3,
+    "subject_wise": {
+      "Data Structures": "66%",
+      "Database Systems": "65%",
+      "Web Development": "74%",
+      "Mathematics-IV": "72%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026002",
+    "roll_no": "26CSE002",
+    "total_attendance_percentage": 87.2,
+    "subject_wise": {
+      "Data Structures": "90%",
+      "Database Systems": "88%",
+      "Web Development": "85%",
+      "Mathematics-IV": "89%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026003",
+    "roll_no": "26CSE003",
+    "total_attendance_percentage": 74.4,
+    "subject_wise": {
+      "Data Structures": "74%",
+      "Database Systems": "74%",
+      "Web Development": "78%",
+      "Mathematics-IV": "73%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026004",
+    "roll_no": "26CSE004",
+    "total_attendance_percentage": 86.8,
+    "subject_wise": {
+      "Data Structures": "81%",
+      "Database Systems": "91%",
+      "Web Development": "84%",
+      "Mathematics-IV": "85%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026005",
+    "roll_no": "26CSE005",
+    "total_attendance_percentage": 86.7,
+    "subject_wise": {
+      "Data Structures": "91%",
+      "Database Systems": "91%",
+      "Web Development": "82%",
+      "Mathematics-IV": "90%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026006",
+    "roll_no": "26CSE006",
+    "total_attendance_percentage": 91.2,
+    "subject_wise": {
+      "Data Structures": "91%",
+      "Database Systems": "92%",
+      "Web Development": "90%",
+      "Mathematics-IV": "87%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026007",
+    "roll_no": "26CSE007",
+    "total_attendance_percentage": 88.4,
+    "subject_wise": {
+      "Data Structures": "89%",
+      "Database Systems": "92%",
+      "Web Development": "89%",
+      "Mathematics-IV": "88%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026008",
+    "roll_no": "26CSE008",
+    "total_attendance_percentage": 82.7,
+    "subject_wise": {
+      "Data Structures": "83%",
+      "Database Systems": "83%",
+      "Web Development": "86%",
+      "Mathematics-IV": "84%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026009",
+    "roll_no": "26CSE009",
+    "total_attendance_percentage": 66.0,
+    "subject_wise": {
+      "Data Structures": "61%",
+      "Database Systems": "65%",
+      "Web Development": "69%",
+      "Mathematics-IV": "63%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026010",
+    "roll_no": "26CSE010",
+    "total_attendance_percentage": 78.6,
+    "subject_wise": {
+      "Data Structures": "74%",
+      "Database Systems": "78%",
+      "Web Development": "77%",
+      "Mathematics-IV": "76%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026011",
+    "roll_no": "26CSE011",
+    "total_attendance_percentage": 70.1,
+    "subject_wise": {
+      "Data Structures": "74%",
+      "Database Systems": "71%",
+      "Web Development": "68%",
+      "Mathematics-IV": "73%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026012",
+    "roll_no": "26CSE012",
+    "total_attendance_percentage": 64.6,
+    "subject_wise": {
+      "Data Structures": "62%",
+      "Database Systems": "60%",
+      "Web Development": "64%",
+      "Mathematics-IV": "59%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026013",
+    "roll_no": "26CSE013",
+    "total_attendance_percentage": 79.5,
+    "subject_wise": {
+      "Data Structures": "78%",
+      "Database Systems": "84%",
+      "Web Development": "81%",
+      "Mathematics-IV": "77%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026014",
+    "roll_no": "26CSE014",
+    "total_attendance_percentage": 75.6,
+    "subject_wise": {
+      "Data Structures": "70%",
+      "Database Systems": "80%",
+      "Web Development": "80%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026015",
+    "roll_no": "26CSE015",
+    "total_attendance_percentage": 67.0,
+    "subject_wise": {
+      "Data Structures": "69%",
+      "Database Systems": "65%",
+      "Web Development": "63%",
+      "Mathematics-IV": "69%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026016",
+    "roll_no": "26CSE016",
+    "total_attendance_percentage": 92.9,
+    "subject_wise": {
+      "Data Structures": "87%",
+      "Database Systems": "89%",
+      "Web Development": "93%",
+      "Mathematics-IV": "87%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026017",
+    "roll_no": "26CSE017",
+    "total_attendance_percentage": 96.8,
+    "subject_wise": {
+      "Data Structures": "100%",
+      "Database Systems": "99%",
+      "Web Development": "91%",
+      "Mathematics-IV": "96%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026018",
+    "roll_no": "26CSE018",
+    "total_attendance_percentage": 85.7,
+    "subject_wise": {
+      "Data Structures": "83%",
+      "Database Systems": "86%",
+      "Web Development": "81%",
+      "Mathematics-IV": "89%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026019",
+    "roll_no": "26CSE019",
+    "total_attendance_percentage": 95.5,
+    "subject_wise": {
+      "Data Structures": "93%",
+      "Database Systems": "100%",
+      "Web Development": "95%",
+      "Mathematics-IV": "93%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026020",
+    "roll_no": "26CSE020",
+    "total_attendance_percentage": 80.4,
+    "subject_wise": {
+      "Data Structures": "83%",
+      "Database Systems": "79%",
+      "Web Development": "77%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026021",
+    "roll_no": "26CSE021",
+    "total_attendance_percentage": 85.4,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "84%",
+      "Web Development": "90%",
+      "Mathematics-IV": "81%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026022",
+    "roll_no": "26CSE022",
+    "total_attendance_percentage": 87.3,
+    "subject_wise": {
+      "Data Structures": "85%",
+      "Database Systems": "92%",
+      "Web Development": "92%",
+      "Mathematics-IV": "86%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026023",
+    "roll_no": "26CSE023",
+    "total_attendance_percentage": 72.7,
+    "subject_wise": {
+      "Data Structures": "69%",
+      "Database Systems": "77%",
+      "Web Development": "71%",
+      "Mathematics-IV": "69%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026024",
+    "roll_no": "26CSE024",
+    "total_attendance_percentage": 76.3,
+    "subject_wise": {
+      "Data Structures": "71%",
+      "Database Systems": "75%",
+      "Web Development": "76%",
+      "Mathematics-IV": "71%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026025",
+    "roll_no": "26CSE025",
+    "total_attendance_percentage": 93.5,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "90%",
+      "Web Development": "93%",
+      "Mathematics-IV": "94%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026026",
+    "roll_no": "26CSE026",
+    "total_attendance_percentage": 68.5,
+    "subject_wise": {
+      "Data Structures": "70%",
+      "Database Systems": "68%",
+      "Web Development": "67%",
+      "Mathematics-IV": "66%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026027",
+    "roll_no": "26CSE027",
+    "total_attendance_percentage": 95.7,
+    "subject_wise": {
+      "Data Structures": "91%",
+      "Database Systems": "94%",
+      "Web Development": "92%",
+      "Mathematics-IV": "99%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026028",
+    "roll_no": "26CSE028",
+    "total_attendance_percentage": 83.0,
+    "subject_wise": {
+      "Data Structures": "86%",
+      "Database Systems": "79%",
+      "Web Development": "84%",
+      "Mathematics-IV": "87%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026029",
+    "roll_no": "26CSE029",
+    "total_attendance_percentage": 73.8,
+    "subject_wise": {
+      "Data Structures": "69%",
+      "Database Systems": "78%",
+      "Web Development": "73%",
+      "Mathematics-IV": "77%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026030",
+    "roll_no": "26CSE030",
+    "total_attendance_percentage": 81.1,
+    "subject_wise": {
+      "Data Structures": "79%",
+      "Database Systems": "82%",
+      "Web Development": "86%",
+      "Mathematics-IV": "82%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026031",
+    "roll_no": "26CSE031",
+    "total_attendance_percentage": 68.0,
+    "subject_wise": {
+      "Data Structures": "72%",
+      "Database Systems": "72%",
+      "Web Development": "73%",
+      "Mathematics-IV": "68%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026032",
+    "roll_no": "26CSE032",
+    "total_attendance_percentage": 63.5,
+    "subject_wise": {
+      "Data Structures": "61%",
+      "Database Systems": "68%",
+      "Web Development": "62%",
+      "Mathematics-IV": "61%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026033",
+    "roll_no": "26CSE033",
+    "total_attendance_percentage": 87.3,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "89%",
+      "Web Development": "88%",
+      "Mathematics-IV": "85%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026034",
+    "roll_no": "26CSE034",
+    "total_attendance_percentage": 94.9,
+    "subject_wise": {
+      "Data Structures": "90%",
+      "Database Systems": "96%",
+      "Web Development": "91%",
+      "Mathematics-IV": "96%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026035",
+    "roll_no": "26CSE035",
+    "total_attendance_percentage": 69.8,
+    "subject_wise": {
+      "Data Structures": "67%",
+      "Database Systems": "74%",
+      "Web Development": "68%",
+      "Mathematics-IV": "72%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026036",
+    "roll_no": "26CSE036",
+    "total_attendance_percentage": 65.3,
+    "subject_wise": {
+      "Data Structures": "63%",
+      "Database Systems": "66%",
+      "Web Development": "62%",
+      "Mathematics-IV": "63%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026037",
+    "roll_no": "26CSE037",
+    "total_attendance_percentage": 92.6,
+    "subject_wise": {
+      "Data Structures": "96%",
+      "Database Systems": "93%",
+      "Web Development": "94%",
+      "Mathematics-IV": "87%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026038",
+    "roll_no": "26CSE038",
+    "total_attendance_percentage": 78.6,
+    "subject_wise": {
+      "Data Structures": "77%",
+      "Database Systems": "79%",
+      "Web Development": "80%",
+      "Mathematics-IV": "73%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026039",
+    "roll_no": "26CSE039",
+    "total_attendance_percentage": 63.2,
+    "subject_wise": {
+      "Data Structures": "64%",
+      "Database Systems": "60%",
+      "Web Development": "65%",
+      "Mathematics-IV": "60%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026040",
+    "roll_no": "26CSE040",
+    "total_attendance_percentage": 77.9,
+    "subject_wise": {
+      "Data Structures": "80%",
+      "Database Systems": "72%",
+      "Web Development": "77%",
+      "Mathematics-IV": "75%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026041",
+    "roll_no": "26CSE041",
+    "total_attendance_percentage": 81.4,
+    "subject_wise": {
+      "Data Structures": "79%",
+      "Database Systems": "83%",
+      "Web Development": "80%",
+      "Mathematics-IV": "81%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026042",
+    "roll_no": "26CSE042",
+    "total_attendance_percentage": 75.1,
+    "subject_wise": {
+      "Data Structures": "73%",
+      "Database Systems": "71%",
+      "Web Development": "79%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026043",
+    "roll_no": "26CSE043",
+    "total_attendance_percentage": 60.5,
+    "subject_wise": {
+      "Data Structures": "61%",
+      "Database Systems": "62%",
+      "Web Development": "56%",
+      "Mathematics-IV": "61%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026044",
+    "roll_no": "26CSE044",
+    "total_attendance_percentage": 76.6,
+    "subject_wise": {
+      "Data Structures": "80%",
+      "Database Systems": "75%",
+      "Web Development": "76%",
+      "Mathematics-IV": "74%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026045",
+    "roll_no": "26CSE045",
+    "total_attendance_percentage": 66.9,
+    "subject_wise": {
+      "Data Structures": "64%",
+      "Database Systems": "66%",
+      "Web Development": "65%",
+      "Mathematics-IV": "66%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026046",
+    "roll_no": "26CSE046",
+    "total_attendance_percentage": 84.5,
+    "subject_wise": {
+      "Data Structures": "86%",
+      "Database Systems": "86%",
+      "Web Development": "79%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026047",
+    "roll_no": "26CSE047",
+    "total_attendance_percentage": 76.2,
+    "subject_wise": {
+      "Data Structures": "79%",
+      "Database Systems": "76%",
+      "Web Development": "76%",
+      "Mathematics-IV": "78%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026048",
+    "roll_no": "26CSE048",
+    "total_attendance_percentage": 67.3,
+    "subject_wise": {
+      "Data Structures": "69%",
+      "Database Systems": "66%",
+      "Web Development": "71%",
+      "Mathematics-IV": "70%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026049",
+    "roll_no": "26CSE049",
+    "total_attendance_percentage": 70.4,
+    "subject_wise": {
+      "Data Structures": "65%",
+      "Database Systems": "73%",
+      "Web Development": "69%",
+      "Mathematics-IV": "67%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026050",
+    "roll_no": "26CSE050",
+    "total_attendance_percentage": 72.9,
+    "subject_wise": {
+      "Data Structures": "67%",
+      "Database Systems": "71%",
+      "Web Development": "74%",
+      "Mathematics-IV": "68%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026051",
+    "roll_no": "26CSE051",
+    "total_attendance_percentage": 90.8,
+    "subject_wise": {
+      "Data Structures": "89%",
+      "Database Systems": "86%",
+      "Web Development": "88%",
+      "Mathematics-IV": "86%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026052",
+    "roll_no": "26CSE052",
+    "total_attendance_percentage": 83.2,
+    "subject_wise": {
+      "Data Structures": "79%",
+      "Database Systems": "81%",
+      "Web Development": "88%",
+      "Mathematics-IV": "81%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026053",
+    "roll_no": "26CSE053",
+    "total_attendance_percentage": 86.2,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "85%",
+      "Web Development": "81%",
+      "Mathematics-IV": "84%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026054",
+    "roll_no": "26CSE054",
+    "total_attendance_percentage": 76.2,
+    "subject_wise": {
+      "Data Structures": "79%",
+      "Database Systems": "74%",
+      "Web Development": "81%",
+      "Mathematics-IV": "73%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026055",
+    "roll_no": "26CSE055",
+    "total_attendance_percentage": 86.6,
+    "subject_wise": {
+      "Data Structures": "85%",
+      "Database Systems": "89%",
+      "Web Development": "89%",
+      "Mathematics-IV": "88%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026056",
+    "roll_no": "26CSE056",
+    "total_attendance_percentage": 96.6,
+    "subject_wise": {
+      "Data Structures": "100%",
+      "Database Systems": "100%",
+      "Web Development": "91%",
+      "Mathematics-IV": "95%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026057",
+    "roll_no": "26CSE057",
+    "total_attendance_percentage": 73.2,
+    "subject_wise": {
+      "Data Structures": "73%",
+      "Database Systems": "73%",
+      "Web Development": "78%",
+      "Mathematics-IV": "69%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026058",
+    "roll_no": "26CSE058",
+    "total_attendance_percentage": 72.3,
+    "subject_wise": {
+      "Data Structures": "73%",
+      "Database Systems": "75%",
+      "Web Development": "67%",
+      "Mathematics-IV": "77%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026059",
+    "roll_no": "26CSE059",
+    "total_attendance_percentage": 88.9,
+    "subject_wise": {
+      "Data Structures": "86%",
+      "Database Systems": "87%",
+      "Web Development": "91%",
+      "Mathematics-IV": "85%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026060",
+    "roll_no": "26CSE060",
+    "total_attendance_percentage": 63.5,
+    "subject_wise": {
+      "Data Structures": "59%",
+      "Database Systems": "65%",
+      "Web Development": "59%",
+      "Mathematics-IV": "68%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026061",
+    "roll_no": "26CSE061",
+    "total_attendance_percentage": 67.2,
+    "subject_wise": {
+      "Data Structures": "71%",
+      "Database Systems": "70%",
+      "Web Development": "64%",
+      "Mathematics-IV": "63%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026062",
+    "roll_no": "26CSE062",
+    "total_attendance_percentage": 92.9,
+    "subject_wise": {
+      "Data Structures": "94%",
+      "Database Systems": "95%",
+      "Web Development": "94%",
+      "Mathematics-IV": "92%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026063",
+    "roll_no": "26CSE063",
+    "total_attendance_percentage": 88.3,
+    "subject_wise": {
+      "Data Structures": "89%",
+      "Database Systems": "89%",
+      "Web Development": "93%",
+      "Mathematics-IV": "93%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026064",
+    "roll_no": "26CSE064",
+    "total_attendance_percentage": 63.8,
+    "subject_wise": {
+      "Data Structures": "65%",
+      "Database Systems": "58%",
+      "Web Development": "60%",
+      "Mathematics-IV": "64%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026065",
+    "roll_no": "26CSE065",
+    "total_attendance_percentage": 96.3,
+    "subject_wise": {
+      "Data Structures": "98%",
+      "Database Systems": "99%",
+      "Web Development": "91%",
+      "Mathematics-IV": "100%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026066",
+    "roll_no": "26CSE066",
+    "total_attendance_percentage": 72.3,
+    "subject_wise": {
+      "Data Structures": "67%",
+      "Database Systems": "71%",
+      "Web Development": "72%",
+      "Mathematics-IV": "72%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026067",
+    "roll_no": "26CSE067",
+    "total_attendance_percentage": 78.9,
+    "subject_wise": {
+      "Data Structures": "82%",
+      "Database Systems": "75%",
+      "Web Development": "76%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026068",
+    "roll_no": "26CSE068",
+    "total_attendance_percentage": 84.3,
+    "subject_wise": {
+      "Data Structures": "85%",
+      "Database Systems": "83%",
+      "Web Development": "86%",
+      "Mathematics-IV": "83%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026069",
+    "roll_no": "26CSE069",
+    "total_attendance_percentage": 97.2,
+    "subject_wise": {
+      "Data Structures": "98%",
+      "Database Systems": "96%",
+      "Web Development": "92%",
+      "Mathematics-IV": "92%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026070",
+    "roll_no": "26CSE070",
+    "total_attendance_percentage": 83.6,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "88%",
+      "Web Development": "88%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026071",
+    "roll_no": "26CSE071",
+    "total_attendance_percentage": 72.4,
+    "subject_wise": {
+      "Data Structures": "73%",
+      "Database Systems": "69%",
+      "Web Development": "70%",
+      "Mathematics-IV": "69%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026072",
+    "roll_no": "26CSE072",
+    "total_attendance_percentage": 65.3,
+    "subject_wise": {
+      "Data Structures": "63%",
+      "Database Systems": "70%",
+      "Web Development": "70%",
+      "Mathematics-IV": "66%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026073",
+    "roll_no": "26CSE073",
+    "total_attendance_percentage": 82.2,
+    "subject_wise": {
+      "Data Structures": "87%",
+      "Database Systems": "82%",
+      "Web Development": "78%",
+      "Mathematics-IV": "87%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026074",
+    "roll_no": "26CSE074",
+    "total_attendance_percentage": 64.4,
+    "subject_wise": {
+      "Data Structures": "59%",
+      "Database Systems": "59%",
+      "Web Development": "63%",
+      "Mathematics-IV": "66%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026075",
+    "roll_no": "26CSE075",
+    "total_attendance_percentage": 91.7,
+    "subject_wise": {
+      "Data Structures": "95%",
+      "Database Systems": "92%",
+      "Web Development": "90%",
+      "Mathematics-IV": "86%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026076",
+    "roll_no": "26CSE076",
+    "total_attendance_percentage": 62.3,
+    "subject_wise": {
+      "Data Structures": "61%",
+      "Database Systems": "60%",
+      "Web Development": "58%",
+      "Mathematics-IV": "64%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026077",
+    "roll_no": "26CSE077",
+    "total_attendance_percentage": 90.9,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "90%",
+      "Web Development": "87%",
+      "Mathematics-IV": "94%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026078",
+    "roll_no": "26CSE078",
+    "total_attendance_percentage": 82.4,
+    "subject_wise": {
+      "Data Structures": "77%",
+      "Database Systems": "79%",
+      "Web Development": "81%",
+      "Mathematics-IV": "77%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026079",
+    "roll_no": "26CSE079",
+    "total_attendance_percentage": 95.9,
+    "subject_wise": {
+      "Data Structures": "90%",
+      "Database Systems": "100%",
+      "Web Development": "98%",
+      "Mathematics-IV": "94%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026080",
+    "roll_no": "26CSE080",
+    "total_attendance_percentage": 72.2,
+    "subject_wise": {
+      "Data Structures": "69%",
+      "Database Systems": "68%",
+      "Web Development": "69%",
+      "Mathematics-IV": "71%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026081",
+    "roll_no": "26CSE081",
+    "total_attendance_percentage": 76.3,
+    "subject_wise": {
+      "Data Structures": "74%",
+      "Database Systems": "77%",
+      "Web Development": "76%",
+      "Mathematics-IV": "78%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026082",
+    "roll_no": "26CSE082",
+    "total_attendance_percentage": 91.6,
+    "subject_wise": {
+      "Data Structures": "87%",
+      "Database Systems": "92%",
+      "Web Development": "87%",
+      "Mathematics-IV": "91%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026083",
+    "roll_no": "26CSE083",
+    "total_attendance_percentage": 63.9,
+    "subject_wise": {
+      "Data Structures": "66%",
+      "Database Systems": "61%",
+      "Web Development": "60%",
+      "Mathematics-IV": "68%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026084",
+    "roll_no": "26CSE084",
+    "total_attendance_percentage": 83.1,
+    "subject_wise": {
+      "Data Structures": "88%",
+      "Database Systems": "82%",
+      "Web Development": "78%",
+      "Mathematics-IV": "80%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026085",
+    "roll_no": "26CSE085",
+    "total_attendance_percentage": 88.2,
+    "subject_wise": {
+      "Data Structures": "83%",
+      "Database Systems": "84%",
+      "Web Development": "91%",
+      "Mathematics-IV": "86%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026086",
+    "roll_no": "26CSE086",
+    "total_attendance_percentage": 88.7,
+    "subject_wise": {
+      "Data Structures": "83%",
+      "Database Systems": "93%",
+      "Web Development": "84%",
+      "Mathematics-IV": "87%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026087",
+    "roll_no": "26CSE087",
+    "total_attendance_percentage": 70.8,
+    "subject_wise": {
+      "Data Structures": "75%",
+      "Database Systems": "74%",
+      "Web Development": "72%",
+      "Mathematics-IV": "73%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026088",
+    "roll_no": "26CSE088",
+    "total_attendance_percentage": 95.9,
+    "subject_wise": {
+      "Data Structures": "92%",
+      "Database Systems": "94%",
+      "Web Development": "94%",
+      "Mathematics-IV": "95%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026089",
+    "roll_no": "26CSE089",
+    "total_attendance_percentage": 62.7,
+    "subject_wise": {
+      "Data Structures": "57%",
+      "Database Systems": "63%",
+      "Web Development": "57%",
+      "Mathematics-IV": "64%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026090",
+    "roll_no": "26CSE090",
+    "total_attendance_percentage": 75.4,
+    "subject_wise": {
+      "Data Structures": "75%",
+      "Database Systems": "72%",
+      "Web Development": "79%",
+      "Mathematics-IV": "77%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026091",
+    "roll_no": "26CSE091",
+    "total_attendance_percentage": 75.0,
+    "subject_wise": {
+      "Data Structures": "74%",
+      "Database Systems": "75%",
+      "Web Development": "73%",
+      "Mathematics-IV": "75%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026092",
+    "roll_no": "26CSE092",
+    "total_attendance_percentage": 66.6,
+    "subject_wise": {
+      "Data Structures": "63%",
+      "Database Systems": "71%",
+      "Web Development": "62%",
+      "Mathematics-IV": "63%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026093",
+    "roll_no": "26CSE093",
+    "total_attendance_percentage": 92.8,
+    "subject_wise": {
+      "Data Structures": "97%",
+      "Database Systems": "92%",
+      "Web Development": "89%",
+      "Mathematics-IV": "94%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026094",
+    "roll_no": "26CSE094",
+    "total_attendance_percentage": 71.8,
+    "subject_wise": {
+      "Data Structures": "73%",
+      "Database Systems": "66%",
+      "Web Development": "66%",
+      "Mathematics-IV": "71%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026095",
+    "roll_no": "26CSE095",
+    "total_attendance_percentage": 72.2,
+    "subject_wise": {
+      "Data Structures": "74%",
+      "Database Systems": "75%",
+      "Web Development": "69%",
+      "Mathematics-IV": "67%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026096",
+    "roll_no": "26CSE096",
+    "total_attendance_percentage": 73.8,
+    "subject_wise": {
+      "Data Structures": "72%",
+      "Database Systems": "74%",
+      "Web Development": "74%",
+      "Mathematics-IV": "73%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026097",
+    "roll_no": "26CSE097",
+    "total_attendance_percentage": 72.7,
+    "subject_wise": {
+      "Data Structures": "76%",
+      "Database Systems": "77%",
+      "Web Development": "69%",
+      "Mathematics-IV": "72%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  },
+  {
+    "student_id": "STU2026098",
+    "roll_no": "26CSE098",
+    "total_attendance_percentage": 84.5,
+    "subject_wise": {
+      "Data Structures": "85%",
+      "Database Systems": "87%",
+      "Web Development": "84%",
+      "Mathematics-IV": "79%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026099",
+    "roll_no": "26CSE099",
+    "total_attendance_percentage": 79.3,
+    "subject_wise": {
+      "Data Structures": "82%",
+      "Database Systems": "82%",
+      "Web Development": "74%",
+      "Mathematics-IV": "84%"
+    },
+    "shortage_status": "No"
+  },
+  {
+    "student_id": "STU2026100",
+    "roll_no": "26CSE100",
+    "total_attendance_percentage": 73.8,
+    "subject_wise": {
+      "Data Structures": "71%",
+      "Database Systems": "75%",
+      "Web Development": "77%",
+      "Mathematics-IV": "72%"
+    },
+    "shortage_status": "Yes (Below 75%)"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "faculty_id": "FAC001",
+    "name": "Dr. Amit Verma",
+    "designation": "Professor & HOD",
+    "department": "Computer Science",
+    "cabin_no": "Block A - 302",
+    "email": "amit.verma@uni.edu",
+    "office_hours": "02:00 PM - 04:00 PM"
+  },
+  {
+    "faculty_id": "FAC002",
+    "name": "Prof. Priya Nair",
+    "designation": "Assistant Professor",
+    "department": "Computer Science",
+    "cabin_no": "Block B - 105",
+    "email": "priya.nair@uni.edu",
+    "office_hours": "11:00 AM - 01:00 PM"
+  },
+  {
+    "faculty_id": "FAC003",
+    "name": "Dr. Rajesh Gupta",
+    "designation": "Associate Professor",
+    "department": "Computer Science",
+    "cabin_no": "Block A - 410",
+    "email": "rajesh.gupta@uni.edu",
+    "office_hours": "03:00 PM - 05:00 PM"
+  },
+  {
+    "faculty_id": "FAC004",
+    "name": "Prof. Sunita Rao",
+    "designation": "Assistant Professor",
+    "department": "Computer Science",
+    "cabin_no": "Block C - 202",
+    "email": "sunita.rao@uni.edu",
+    "office_hours": "10:00 AM - 12:00 PM"
+  }
+]

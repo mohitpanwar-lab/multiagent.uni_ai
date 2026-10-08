@@ -1,0 +1,67 @@
+{
+  "branch": "Computer Science",
+  "semester": 4,
+  "section": "A",
+  "weekly_schedule": {
+    "Monday": [
+      {
+        "time": "09:00 AM - 10:00 AM",
+        "subject": "Data Structures",
+        "room": "LH-201"
+      },
+      {
+        "time": "10:15 AM - 11:15 AM",
+        "subject": "Database Systems",
+        "room": "LH-202"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "09:00 AM - 10:00 AM",
+        "subject": "Web Development",
+        "room": "Lab-3"
+      },
+      {
+        "time": "11:30 AM - 12:30 PM",
+        "subject": "Mathematics-IV",
+        "room": "LH-104"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "09:00 AM - 10:00 AM",
+        "subject": "Database Systems",
+        "room": "LH-202"
+      },
+      {
+        "time": "01:30 PM - 03:30 PM",
+        "subject": "Data Structures Lab",
+        "room": "Lab-1"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "10:15 AM - 11:15 AM",
+        "subject": "Mathematics-IV",
+        "room": "LH-104"
+      },
+      {
+        "time": "02:00 PM - 04:00 PM",
+        "subject": "Web Development Lab",
+        "room": "Lab-3"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "09:00 AM - 10:00 AM",
+        "subject": "Data Structures",
+        "room": "LH-201"
+      },
+      {
+        "time": "11:30 AM - 12:30 PM",
+        "subject": "Web Development",
+        "room": "LH-201"
+      }
+    ]
+  }
+}
